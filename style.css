@@ -18,9 +18,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(rgba(17, 17, 17, 0.6), rgba(17, 17, 17, 0.5)),
-    url(images/bg-trial.jpg) center/cover;
-
+  background: url(images/bg.jpg) center/cover;
   background-size: cover;
 }
 .banner .content {
